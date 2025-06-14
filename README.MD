@@ -94,5 +94,7 @@ To create a full Snowflake dashboard:
 
 ---
 
+![Ecommerce Dashboard](Screenshot%202025-06-14%20185249.png)
+
 © 2025 Swapnil Mogal
 For queries or suggestions, feel free to connect.
